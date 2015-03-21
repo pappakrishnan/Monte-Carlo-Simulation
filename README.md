@@ -1,4 +1,4 @@
 Statistical-Mechanics---Ising-Project
 =====================================
 
-Ising Project to determine spontaneous magnetization using Monte-Carlo simulations (method)
+This repository contains the MATLAB files I have created to determine spontaneous magnetization (Ising Project) in a ferromagnetic material using Monte-Carlo method.
